@@ -1,2 +1,3 @@
 - GIT/GIT FLOW TRAINING
-  This is some sample for GIT Training
+* This is some sample for GIT Training
+* Other changes
